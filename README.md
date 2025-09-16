@@ -17,6 +17,7 @@ TikTok/
 
 ```bash
 git clone https://github.com/tu-usuario/tiktok-trend-rockthatbody.git
+```
 Abre una terminal en la carpeta del proyecto.
 
 Ejecuta el script con:
