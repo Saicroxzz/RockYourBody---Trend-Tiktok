@@ -16,7 +16,7 @@ TikTok/
 1. Clona este repositorio o descarga los archivos en tu equipo:  
 
 ```bash
-git clone https://github.com/tu-usuario/tiktok-trend-rockthatbody.git
+git clone https://github.com/Saicroxzz/tiktok-trend-rockthatbody.git
 ```
 Abre una terminal en la carpeta del proyecto.
 
