@@ -11,11 +11,6 @@ TikTok/
 ├── README.txt # Instrucciones básicas en texto plano
 └── RockYourBody.py # Script principal con el efecto del trend
 
-yaml
-Copiar código
-
----
-
 ## 🚀 Ejecución
 
 1. Clona este repositorio o descarga los archivos en tu equipo:  
